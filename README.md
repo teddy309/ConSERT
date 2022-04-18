@@ -1,7 +1,7 @@
 # ConSERT
 
 4/18(LSSedit): conda copied from base_py38_torch1.11
-
+*별로인것 같아서 일단 중
 
 Code for our ACL 2021 paper - [ConSERT: A Contrastive Framework for Self-Supervised Sentence Representation Transfer](https://aclanthology.org/2021.acl-long.393/)
 
